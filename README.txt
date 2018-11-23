@@ -1,8 +1,7 @@
 # README for Remix: My Project #
 
-This is the README file for the Remix: My Project app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+This is the README file for the Happy-Birthday app. 
+It's an app I created to surprise my mom on guessing what flower she will be receiving. 
 
 The files in this folder contain everything you need to run your app:
 

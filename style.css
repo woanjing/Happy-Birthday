@@ -1,0 +1,371 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+#divApplab.appModern button.appModernDesign,
+#divApplab.appModern button.appModernDesign:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label.appModernDesign,
+#divApplab.appModern label.appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow-wrap: break-word;
+  color: rgb(51, 51, 51);
+  max-width: 320px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text].appModernDesign,
+#divApplab.appModern input[type=text].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox].appModernDesign,
+#divApplab.appModern input[type=checkbox].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select.appModernDesign,
+#divApplab.appModern select.appModernDesign:hover {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio].appModernDesign,
+#divApplab.appModern input[type=radio].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea.appModernDesign,
+#divApplab.appModern div.textArea.appModernDesign:hover {
+  width: 200px;
+  height: 100px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img.appModernDesign,
+#divApplab.appModern img.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas.appModernDesign,
+#divApplab.appModern canvas.appModernDesign:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen.appModernDesign,
+#divApplab.appModern div.screen.appModernDesign:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart.appModernDesign,
+#divApplab.appModern div.chart.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range].appModernDesign,
+#divApplab.appModern input[type=range].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #label1 {
+  width: 310px;
+  left: 5px;
+  height: 40px;
+  text-align: center;
+  font-size: 27px;
+  background-color: rgb(234, 156, 122);
+  top: 5px;
+  color: rgb(255, 244, 127);
+}
+
+#divApplab.appModern #image1 {
+  height: 110px;
+  left: 5px;
+  top: 125px;
+  width: 150px;
+}
+
+#divApplab.appModern #BasketDaisy {
+  height: 40px;
+  width: 150px;
+  left: 5px;
+  top: 240px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat: no-repeat;
+  background-color: rgb(176, 185, 178);
+  font-size: 20px;
+}
+
+#divApplab.appModern #ForrestGreen {
+  height: 40px;
+  width: 150px;
+  font-size: 20px;
+  background-color: rgb(176, 185, 178);
+  left: 160px;
+  top: 240px;
+}
+
+#divApplab.appModern #image2 {
+  height: 110px;
+  width: 150px;
+  left: 160px;
+  top: 125px;
+}
+
+#divApplab.appModern #image3 {
+  height: 110px;
+  width: 150px;
+  left: 5px;
+  top: 285px;
+}
+
+#divApplab.appModern #image4 {
+  height: 110px;
+  width: 150px;
+  left: 160px;
+  top: 285px;
+}
+
+#divApplab.appModern #Gibera {
+  height: 40px;
+  width: 150px;
+  left: 5px;
+  top: 400px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat: no-repeat;
+  background-color: rgb(176, 185, 178);
+  font-size: 20px;
+}
+
+#divApplab.appModern #Enchanting {
+  height: 40px;
+  width: 150px;
+  font-size: 20px;
+  background-color: rgb(176, 185, 178);
+  left: 160px;
+  top: 400px;
+}
+
+#divApplab.appModern #label4 {
+  font-size: 21px;
+  width: 310px;
+  height: 35px;
+  left: 5px;
+  top: 60px;
+}
+
+#divApplab.appModern #BDaisy {
+  background-size: 320px 450px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  display: none;
+}
+
+#divApplab.appModern #YourAreLovely! {
+  width: 270px;
+  height: 90px;
+  left: 30px;
+  top: 345px;
+  background-color: rgb(226, 77, 204);
+  color: rgb(204, 243, 114);
+  font-size: 37px;
+  text-align: center;
+}
+
+#divApplab.appModern #image6 {
+  height: 315px;
+  width: 270px;
+  left: 29px;
+  top: 20px;
+}
+
+#divApplab.appModern #FGreen {
+  display: none;
+}
+
+#divApplab.appModern #StaysHealthy {
+  font-size: 35px;
+  color: rgb(251, 244, 244);
+  height: 90px;
+  left: 30px;
+  top: 345px;
+  background-color: rgb(124, 171, 82);
+  text-align: center;
+  width: 270px;
+}
+
+#divApplab.appModern #ForrestGre {
+  height: 315px;
+  width: 270px;
+  left: 30px;
+  top: 20px;
+}
+
+#divApplab.appModern #GScreen {
+  display: none;
+}
+
+#divApplab.appModern #image7 {
+  height: 315px;
+  width: 270px;
+  left: 29px;
+  top: 20px;
+}
+
+#divApplab.appModern #StaysActive {
+  font-size: 39px;
+  color: rgb(243, 239, 239);
+  width: 270px;
+  height: 90px;
+  left: 30px;
+  top: 345px;
+  background-color: rgb(197, 118, 40);
+  text-align: center;
+}
+
+#divApplab.appModern #Enchant {
+  display: none;
+}
+
+#divApplab.appModern #image8 {
+  width: 270px;
+  left: 29px;
+  top: 10px;
+  height: 315px;
+}
+
+#divApplab.appModern #YouRWonderful {
+  font-size: 33px;
+  color: rgb(253, 251, 251);
+  width: 270px;
+  height: 90px;
+  left: 30px;
+  top: 345px;
+  background-color: rgb(113, 24, 24);
+  text-align: center;
+}
